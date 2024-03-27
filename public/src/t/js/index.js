@@ -68,7 +68,7 @@ function ShowToast() {
     }
     // SET URL FACEBOOK
     $('#Facebook').click(function() {
-        OpenUrl('https://www.facebook.com/bapxuntruong');
+        OpenUrl('https://www.facebook.com/ngoxuntruong');
     });
       // SET URL YOUTUBE
     $('#Youtube').click(function() {
