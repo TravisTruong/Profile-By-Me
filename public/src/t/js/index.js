@@ -87,7 +87,7 @@ function ShowToast() {
 function Alerts() {
   Swal.fire({
     title: '𝙉𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 !',
-    text: '=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝑩𝙖𝒃𝙮 𝙗𝙖𝙘𝙠 𝙩𝙤 𝙩𝙝𝙚 𝙝𝙤𝙢𝙚𝙥𝙖𝙜𝙚 🐬 <<=',
+    text: '=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝑩𝙖𝒃𝙮 𝙗𝙖𝙘𝙠 𝙩𝙤 𝙩𝙝𝙚 𝙝𝙤𝙢𝙚𝙥𝙖𝙜𝙚 🐬  <<=',
     showConfirmButton: false
   });
 }
